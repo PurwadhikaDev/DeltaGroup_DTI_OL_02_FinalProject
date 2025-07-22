@@ -18,6 +18,6 @@ Additionally, we published a separate visualization of the project in Tableau Pu
 🔗 **Tableau Public Dashboard:**  
 (https://public.tableau.com/views/PWDFinalProjectCreditCardUserSegmentations/CreditCardSegmentations?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-((insert tableadu ss))
+! [Tableau Screenshot](https://github.com/PurwadhikaDev/DeltaGroup_DTI_OL_02_FinalProject/blob/main/Credit%20Card%20Segmentations.png)
 
 This project demonstrates how clustering can uncover hidden behavioral patterns in customer data. Each identified group brings unique characteristics that businesses can act upon, such as promoting installment-friendly plans for one group or offering cash advance alternatives for another. In future iterations, this analysis could be extended with geographic or demographic data and improved by testing clustering methods like DBSCAN or Agglomerative Clustering.
