@@ -4,7 +4,7 @@ This project aims to segment credit card customers based on their financial beha
 
 We began with a thorough exploratory data analysis (EDA) where we examined relationships between key variables. For instance, we looked into how a customer's balance relates to their balance frequency, how their payment habits align with their minimum due, and how installment purchases differ from one-off purchases. These comparisons helped us engineer features that better reflect behavioral tendencies and prepare the data for clustering.
 
-After preprocessing and normalization, we applied Principal Component Analysis (PCA) to reduce dimensionality while preserving variance. The KMeans algorithm was then used to identify clusters, with the optimal number determined through the elbow method and silhouette score evaluation. We also analyzed the characteristics of each cluster to understand the behavioral profiles of our customer groups.
+After preprocessing and normalization, we used the KMeans algorithm to identify clusters with the optimal number determined through the elbow method and silhouette score evaluation. To support the performance of the clustering, we applied Principal Component Analysis (PCA) to reduce dimensionality while preserving variance. We also analyzed the characteristics of each cluster to understand the behavioral profiles of our customer groups.
 
 To support interactive data exploration, we built a **Streamlit app** for this project. Although still in development, the Streamlit dashboard allows future users to explore customer clusters, visualize patterns, and potentially apply filters for different variables. This is intended to serve as a prototype for integrating unsupervised learning into business-facing analytics tools.
 
