@@ -1,4 +1,4 @@
-# 🧠 Customer Clustering Project — Spending Behavior Analysis
+# 🧠 Customer Clustering Project — From Clusters to Campaigns
 
 This project aims to segment credit card customers based on their financial behavior using unsupervised machine learning, specifically KMeans clustering. By analyzing patterns in spending, cash advances, payments, and purchase types, we were able to generate customer clusters that can be used for business insights, such as targeted marketing, rewards strategy, and credit risk profiling.
 
